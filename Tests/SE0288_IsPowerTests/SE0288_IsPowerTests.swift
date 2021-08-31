@@ -11,7 +11,7 @@
 //===----------------------------------------------------------------------===//
 
 import XCTest
-@testable import SE0288_IsPower
+import SE0288_IsPower
 
 final class SE0288_IsPowerTests: XCTestCase {
   func testDemo() {
