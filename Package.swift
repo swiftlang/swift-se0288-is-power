@@ -14,7 +14,7 @@
 import PackageDescription
 
 let package = Package(
-  name: "SE0288_IsPower",
+  name: "swift-se0288-is-power",
   products: [
     .library(
       name: "SE0288_IsPower",
