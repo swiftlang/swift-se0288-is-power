@@ -38,9 +38,7 @@ You can add this library as a dependency to any Swift package.
 Add this line to the `dependencies` parameter in your `Package.swift` file:
 
 ```swift
-.package(
-    url: "https://github.com/apple/swift-se0288-is-power",
-    from: "1.0.0"),
+.package(url: "https://github.com/apple/swift-se0288-is-power", from: "2.0.0"),
 ```
 
 Next, add the module as a dependency for your targets that will use the library:
